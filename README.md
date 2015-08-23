@@ -1,4 +1,4 @@
-# protractor-angulardatePicker
+# protractor-angulardatepicker
 A node module to ease out writting test in protractor for choosing a date and time from angular date and time picker
 
 
