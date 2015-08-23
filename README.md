@@ -8,7 +8,7 @@ example usage :
 
 it('The text box contains August 12 6:30 PM ', function() {
      browser.get('http://dalelotts.github.io/angular-bootstrap-datetimepicker/');
-var p= require('./protractor-angulardatePicker.js');
+var p= require('protractor-angulardatepicker.js');
 
  
   var parentnode=element(by.css('.input-group-addon'));
